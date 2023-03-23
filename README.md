@@ -1,8 +1,6 @@
 # php_clothing_api
 
 
-Group members:
-  
-  h/cs/21/0912 
-  h/cs/21/0913
-  h/cs/21/0938
+import the sql database
+
+use postman to view endpoints
